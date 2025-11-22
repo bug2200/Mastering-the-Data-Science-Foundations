@@ -23,11 +23,9 @@ Mastering the Data Science Foundations/
 └── README.md
 ```
 ## 🚀 How to Run the Project
-### 1. Clone or download the repository
+### 1. Access
 
-GitHub: git clone https://github.com/bug2200/Mastering-the-Data-Science-Foundations.git
-
-Or click **Code → Download ZIP** on GitHub.
+GitHub: https://github.com/bug2200/Mastering-the-Data-Science-Foundations.git
 
 ### 2. Open the notebooks
 
