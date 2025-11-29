@@ -4,8 +4,6 @@ This repository contains the full project for the **Mastering the Data Science F
 The goal of the project is to explore, clean, model, and interpret student engagement data from Tomorrow University to predict which students will become highly engaged by mid-semester.
 ## 📂 Project Structure
 
-The repository is organized so the full workflow is easy to understand and reproduce:
-
 ```
 Mastering the Data Science Foundations/
 │
